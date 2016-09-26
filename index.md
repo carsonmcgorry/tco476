@@ -1,23 +1,24 @@
----
-layout: default
----
+An h1 header
+============
 
-<div class="home">
+Paragraphs are separated by a blank line.
 
-  <h1 class="page-heading">Posts</h1>
+2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
+look like:
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+  * this one
+  * that one
+  * the other one
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+Note that --- not considering the asterisk --- the actual text
+content starts at 4-columns in.
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+> Block quotes are
+> written like so.
+>
+> They can span multiple paragraphs,
+> if you like.
 
-</div>
+Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., "it's all
+in chapters 12--14"). Three dots ... will be converted to an ellipsis.
+Unicode is supported. ☺
