@@ -1,6 +1,6 @@
 ---
 layout: default
-title:Home
+title: Home
 ---
 
 An h1 header
