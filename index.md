@@ -20,4 +20,4 @@ There are many different bottles of testing indicators in the testing kits. You 
 
 The kit also contains a meter with two cylinders to fill with water. You will use this meter and the indicators to measure chemical levels on the other pages.
 
-![](/images/inventory resize.png)
+![](/images/inventory.png)
