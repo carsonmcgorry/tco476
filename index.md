@@ -3,29 +3,20 @@ layout: default
 title: Home
 ---
 
-An h1 header
+Testing pool chemicals
 ============
 
-## an h2 header
+Every pool maintains a careful balance in chemical levels to keep the water clean and safe for the swimmers. You will use a chemical testing kit multiple times daily to test for pH and chlorine levels, and record them in the logbook. At the end of each day, you will report the readings to the chief of maintenance, who will tell you what to adjust, if anything.
 
-Paragraphs are separated by a blank line.
+Most pools use a chlorine system to sanitize their water. This facility uses a half-chlorine, half-salt system. This means that chlorine readings for these pools will be lower than those of a regular chlorine pool.
 
-2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
-look like:
+## Testing kit inventory
 
-  * this one
-  * that one
-  * the other one
+There are many different bottles of testing indicators in the testing kits. You only need to worry about three:
+* The brown bottle with yellow cap labeled **R-0871**
+* The clear bottle with red cap labeled **R-0004**
+* The small canister of white powder with blue scoop labeled **DPD**
 
-Note that --- not considering the asterisk --- the actual text
-content starts at 4-columns in.
+The kit also contains a meter with two cylinders to fill with water. You will use this meter and the indicators to measure chemical levels on the other pages.
 
-> Block quotes are
-> written like so.
->
-> They can span multiple paragraphs,
-> if you like.
-
-Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., "it's all
-in chapters 12--14"). Three dots ... will be converted to an ellipsis.
-Unicode is supported. ☺
+!(/images/inventory resize.png)
