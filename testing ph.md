@@ -6,6 +6,8 @@ permalink: /ph/
 
 ## Testing pH level
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qiShiSfzh1s" frameborder="0" allowfullscreen></iframe>
+
 To test the pH level, you will need the meter and the **red bottle** of pH indicator.
 
 1. Uncap the meter if it is capped.
@@ -23,4 +25,4 @@ colored squares on the meter. Determine the pH value by matching the color to th
 comparison. If you can’t tell, it might be a value in between two colors.
 8. Record the reading in the logbook. Remember to sign your initials.
 
-The ideal pH level is around 7.4, but should be kept within the 7.0-7.8 range.
+The ideal pH level is around 7.4, but should be kept inside the 7.0-7.8 range.
