@@ -6,7 +6,7 @@ permalink: /chlorine/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bXge5eLfO3U" frameborder="0" allowfullscreen></iframe>
 
-#### To test the chlorine level, you will need the meter, the **brown** bottle of chlorine indicator, and the canister of white **DPD** powder.
+#### To test the chlorine level, you will need the **meter**, the **brown** bottle of chlorine indicator, and the canister of white **DPD** powder.
 
 1. Uncap the meter if it is capped.
 2. Fill the meter with water. When filling the meter, you should

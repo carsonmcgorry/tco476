@@ -6,7 +6,7 @@ permalink: /ph/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qiShiSfzh1s" frameborder="0" allowfullscreen></iframe>
 
-#### To test the pH level, you will need the meter and the **red bottle** of pH indicator.
+#### To test the pH level, you will need the **meter** and the **red bottle** of pH indicator.
 
 1. Uncap the meter if it is capped.
 2. Fill the meter with water. When filling the meter,

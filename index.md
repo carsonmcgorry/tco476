@@ -25,7 +25,7 @@ You only need to worry about three:
 * The clear bottle with red cap labeled **R-0004**
 * The small canister of white powder with blue scoop labeled **DPD**
 
-The kit also contains a meter with two cylinders to fill with water.
+The kit also contains a **meter** with two cylinders to fill with water.
 You will use this meter and the indicators to measure chemical levels on the other pages of this site.
 
 ![](/images/inventory.png)
