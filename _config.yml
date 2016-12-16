@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: SwimAtlanta maintenance guide
+title: Atlanta Swim Academy maintenance guide
 description: > # this means to ignore newlines until "baseurl:"
   This is a project exercise website for TCO 476. Imagine it as part of a larger set of documentation for maintenance trainees.
 baseurl: "" # the subpath of your site, e.g. /blog
