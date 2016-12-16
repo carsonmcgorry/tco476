@@ -4,7 +4,7 @@ title: Testing pH
 permalink: /ph/
 ---
 
-Testing pH level
+## Testing pH level
 
 To test the pH level, you will need the meter and the **red bottle** of pH indicator.
 
