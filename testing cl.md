@@ -15,7 +15,7 @@ This avoids surface contamination and ensures that the readings will be accurate
 3. Empty the meter to rinse it out and fill it up again the same way.
 4. Carefully pour out excess water from the **left** (smaller) cylinder to the
 **bottom** fill marker on the side of the cylinder. Don’t worry about the right cylinder.
-5. Open the canister of DPD powder. Pour a scoop of powder in the right cylinder
+5. Open the canister of DPD powder. Pour a scoop of powder in the left cylinder
 using the blue scoop. The water should start turning pink.
 6. Cap the meter and mix by flipping the meter upside down and back
 again several times until the mixture is even.
