@@ -24,3 +24,5 @@ comparison. If you can’t tell, it might be a value in between two colors.
 8. Record the reading in the logbook. Remember to sign your initials.
 
 The ideal pH level is around 7.4, but should be kept within the 7.0-7.8 range.
+
+Further reference: [Official directions from Taylor](https://www.taylortechnologies.com/products_instructions.asp?Type=Number&Number=5121)

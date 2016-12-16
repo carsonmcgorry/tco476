@@ -26,3 +26,5 @@ pink water one at a time, counting each drop and gently shaking the mixture afte
 
 The number you record is the parts per million of free chlorine. The ideal measurement for 
 this facility's saltwater system is 3 ppm.
+
+Further reference: [Official directions from Taylor](https://www.taylortechnologies.com/products_instructions.asp?Type=Number&Number=5217)
