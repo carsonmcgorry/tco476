@@ -16,10 +16,10 @@
 title: SwimAtlanta maintenance guide
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is a project exercise website for TCO 476. Imagine it as part of a larger set of documentation for maintenance trainees.
+  This is a project exercise website for TCO 476. Imagine it as part of a larger set of documentation for maintenance trainees. [Github](https://github.com/carsonmcgorry/tco476/tree/web)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://54.163.192.97" # the base hostname & protocol for your site
-github_username:  carsonmcgorry/tco476/tree/web
+github_username:  carsonmcgorry
 
 # Build settings
 markdown: kramdown
