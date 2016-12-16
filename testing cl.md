@@ -11,12 +11,12 @@ permalink: /chlorine/
 1. Uncap the meter if it is capped.
 2. Fill the meter with water. When filling the meter, you should
 submerge the meter in the pool such that the water reaches your elbow.
-This ensures that the readings will be accurate.
+This avoids surface contamination and ensures that the readings will be accurate.
 3. Empty the meter to rinse it out and fill it up again the same way.
 4. Carefully pour out excess water from the **left** cylinder to the
 **bottom** fill marker on the side of the cylinder. Don’t worry about the right cylinder.
-5. Open the canister of DPD powder. Using the blue scoop, pour two
-scoops of powder in the right cylinder. The water should start turning pink.
+5. Open the canister of DPD powder. Pour a scoop of powder in the right cylinder
+using the blue scoop. The water should start turning pink.
 6. Cap the meter and mix by flipping the meter upside down and back
 again several times until the mixture is even.
 7. Using the brown bottle, drip drops of the chlorine indicator into the
@@ -25,4 +25,4 @@ pink water one at a time, counting each drop and gently shaking the mixture afte
 9. Record the reading in the logbook. Remember to sign your initials.
 
 The number you record is the parts per million of free chlorine. The ideal measurement for 
-this facility's saltwater system is 3, or 3,000 ppm.
+this facility's saltwater system is 3 ppm.
