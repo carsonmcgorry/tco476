@@ -6,7 +6,8 @@ title: Home
 Testing pool chemicals
 ============
 
-<IMG SRC=”/images/kit.png” ALIGN=”right” />Every pool maintains a careful balance in chemical levels to keep the water clean and safe for the swimmers. You will use a chemical testing kit multiple times daily to test for pH and chlorine levels, and record them in the logbook. At the end of each day, you will report the readings to the chief of maintenance, who will tell you what to adjust, if anything.
+<IMG SRC=”https://github.com/carsonmcgorry/tco476/blob/web/images/kit.png” ALIGN=”right” />
+Every pool maintains a careful balance in chemical levels to keep the water clean and safe for the swimmers. You will use a chemical testing kit multiple times daily to test for pH and chlorine levels, and record them in the logbook. At the end of each day, you will report the readings to the chief of maintenance, who will tell you what to adjust, if anything.
 
 Most pools use a chlorine system to sanitize their water. This facility uses a half-chlorine, half-salt system. This means that chlorine readings for these pools will be lower than those of a regular chlorine pool.
 
