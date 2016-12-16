@@ -13,7 +13,7 @@ permalink: /chlorine/
 submerge the meter in the pool such that the water reaches your elbow.
 This avoids surface contamination and ensures that the readings will be accurate.
 3. Empty the meter to rinse it out and fill it up again the same way.
-4. Carefully pour out excess water from the **left** cylinder to the
+4. Carefully pour out excess water from the **left** (smaller) cylinder to the
 **bottom** fill marker on the side of the cylinder. Don’t worry about the right cylinder.
 5. Open the canister of DPD powder. Pour a scoop of powder in the right cylinder
 using the blue scoop. The water should start turning pink.
