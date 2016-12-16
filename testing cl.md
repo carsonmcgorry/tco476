@@ -4,7 +4,7 @@ title: Testing chlorine
 permalink: /chlorine/
 ---
 
-[video]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXge5eLfO3U" frameborder="0" allowfullscreen></iframe>
 
 #### To test the chlorine level, you will need the meter, the **brown** bottle of chlorine indicator, and the canister of white **DPD** powder.
 
@@ -21,6 +21,8 @@ scoops of powder in the right cylinder. The water should start turning pink.
 again several times until the mixture is even.
 7. Using the brown bottle, drip drops of the chlorine indicator into the
 pink water one at a time, counting each drop and gently shaking the mixture after each one.
-8. When the water is completely clear, divide the number of drops you added by 2
-to get the parts per million of free chlorine.
+8. When the water is completely clear, divide the number of drops you added by 2.
 9. Record the reading in the logbook. Remember to sign your initials.
+
+The number you record is the parts per million of free chlorine. The ideal measurement for 
+this facility's saltwater system is 3, or 3,000 ppm.
